@@ -1,3 +1,5 @@
+# this program to open the window to open preview camera and take photo using "Take Photo" button that provide in that window
+
 import tkinter as tk
 from picamera2 import Picamera2
 from PIL import Image, ImageTk
