@@ -1,3 +1,5 @@
+# this program is to open a window to get the preview of Raspberry Pi camera
+
 import tkinter as tk
 from picamera2 import Picamera2
 from PIL import Image, ImageTk
