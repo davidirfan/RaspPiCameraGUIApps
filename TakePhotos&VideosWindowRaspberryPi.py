@@ -1,3 +1,5 @@
+# this program show the windows to open preview camera, take photos, and records videos on Raspberry Pi camera
+
 import tkinter as tk
 from picamera2 import Picamera2
 from picamera2.encoders import H264Encoder
