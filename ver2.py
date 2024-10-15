@@ -48,6 +48,10 @@ def stop_recording():
 window = tk.Tk()
 window.title("Video Recorder")
 
+# Create preview label
+label_preview = tk.Label(window)
+label_preview.pack(pady=10)
+
 # Create a "Start Recording" button
 start_button = tk.Button(window, text="Start Recording", command=start_recording)
 start_button.pack(pady=10)
