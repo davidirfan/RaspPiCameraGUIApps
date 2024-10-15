@@ -1,6 +1,9 @@
 # RaspPiCameraGUIApps
 I am still working on the development of a simple GUI Application for using Raspberry Pi Camera to take photos and record videos. There are some problem i still encounter.
 
+## Objective
+- To develop an executable application on Raspberry Pi OS to using camera for take photos and record videos without need to using Python IDE and Terminal to run the program
+
 Requirement :
 For this development, i use :
 1. Raspberry Pi 4 with Raspberry Pi OS Version No. 11 Bullseye
