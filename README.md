@@ -18,6 +18,7 @@ How to use it :
 1. Before run the program, make sure you already able to use the camera of Raspberry Pi.
 2. Open the program file using your Python IDE and run it.
 3. The window of preview camera will open like this example below.
+![GUI Window of Preview Camera](https://github.com/davidirfan/RaspPiCameraGUIApps/blob/main/Gallery/TryPreviewCamera.PNG)
 
 
 ## TakePhotoWindowRaspberryPiCamera.py 
