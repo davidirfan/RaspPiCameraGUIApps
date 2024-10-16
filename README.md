@@ -11,24 +11,33 @@ For this development, i use :
 3. Python and its IDE
 4. Python library : TKInter
 
-There are 4 python file in this repository. Each program has different function.
-1. PreviewWindowRaspPiCamera.py this file just open the window to preview camera.
-2. TakePhotoWindowRaspberryPiCamera.py this file open the window to preview camera and take photos by click the button.
-3. RecordVideoWindowRaspberryPiCamera.py this file open the window to preview camera and record videos by click the button.
-4. TakePhotos&VideosWindowRaspberryPiCamera.py this file open the window to preview camera, take photos, and record videos by click the button.
-
-Steps :
-1. Before write the program, make sure you already able to use camera of Raspberry Pi.
-2. To open
-
+There are 4 python program files in this repository. Each program has different function.
 ## PreviewWindowRaspPiCamera.py
-this file just open the window to preview camera.
+This Python program files is use to open the window of preview camera.
+How to use it :
+1. Before run the program, make sure you already able to use the camera of Raspberry Pi.
+2. Open the program file using your Python IDE and run it.
+3. The window of preview camera will open like this example below.
+
 
 ## TakePhotoWindowRaspberryPiCamera.py 
-this file open the window to preview camera and take photos by click the button.
+This Python program files is use to open the window of preview camera and take photos.
+How to use it :
+1. Before run the program, make sure you already able to use the camera of Raspberry Pi.
+2. Open the program file using your Python IDE and run it.
+3. The window of preview camera will open like this example below.
+4. There is a button below to take photos. Click that button and the photos will capture and save on the new folder that still inside Python program folder.
 
-## RecordVideoWindowRaspberryPiCamera.py 
-this file open the window to preview camera and record videos by click the button.
+## RecordVideoWindowRaspberryPiCamera.py
+This Python program files is use to open the window of preview camera and record videos.
+How to use it :
+1. Before run the program, make sure you already able to use the camera of Raspberry Pi.
+2. Open the program file using your Python IDE and run it.
+3. The window of preview camera will open like this example below.
+4. There is two button below to record videos. Click that button and the photos will capture and save on the new folder that still inside Python program folder.
 
 ## TakePhotos&VideosWindowRaspberryPiCamera.py 
 this file open the window to preview camera, take photos, and record videos by click the button.
+
+## PROBLEM
+To open those GUI Raspberry Pi Camera program, you should open the python program first using IDE and run it. I want to convert those program to executable application to can run from the dekstop of Raspberry Pi OS without using IDE anymore.
